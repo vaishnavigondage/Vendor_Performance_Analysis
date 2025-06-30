@@ -71,6 +71,7 @@ vendor-performance-analysis/
 - Scatter plot to visualize sales vs. profit margin
 - KPI cards summarizing financial performance
 
+![Screenshot 2025-06-30 231259](https://github.com/user-attachments/assets/c0dd1031-6aa9-4bd9-a582-cb6ea19c2823)
 
 git clone https://github.com/your-username/vendor-performance-analysis.git
 cd vendor-performance-analysis
